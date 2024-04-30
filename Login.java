@@ -1,9 +1,4 @@
 public class Login {
-	slfjsf
-	sf
-	fs
-	f
-	sf
-	sf
-	sf
+	
+	public static void main()
 }
